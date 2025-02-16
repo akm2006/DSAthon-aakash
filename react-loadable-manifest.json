@@ -1,0 +1,26 @@
+{
+  "components\\basicComponents\\HeroSection.tsx -> ../miniCompo/ParticleTest": {
+    "id": 9376,
+    "files": [
+      "static/chunks/376.94d0afc541c36ee1.js"
+    ]
+  },
+  "components\\basicComponents\\HeroSection.tsx -> ./CountDown": {
+    "id": 7029,
+    "files": [
+      "static/chunks/29.866f9b042f544cee.js"
+    ]
+  },
+  "node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": 5203,
+    "files": [
+      "static/chunks/203.2b4c1ee4fbe3a7cf.js"
+    ]
+  },
+  "node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": 6218,
+    "files": [
+      "static/chunks/218.d8ec56f1948566fd.js"
+    ]
+  }
+}
